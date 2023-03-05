@@ -1,0 +1,81 @@
+Introduction:
+Python use
+features 
+limitation
+1.not use for mobile application
+2.python wont suport backward compatiblity
+
+
+To Write a Python:
+
+                   Tools
+
+Developement(IDE,integrated Deve Env(software)            
+1.Pycharm
+2.Atom
+3.sublime
+4.Notepad++
+5.VS code
+6.spyder
+
+Data Science tools:
+jupyter Notebook;
+
+
+Download --> Anaconda navigator
+
+
+
+
+
+
+
+Rule to Define Identifiers:
+===========================
+1.allowed char --> a-z,A-Z,0-9,_
+2.identifiers neverm starts with number
+3.keyword are not allowed
+4.no restrication on length
+5.case sensetive
+
+Data Type /DS:-
+1.Data type:
+
+int  --> complete number without decimal point
+float --> with decimal point/incomplete
+str --> char/str
+complex --> real+imgconstant
+bool --> True/False
+None --> Empty variable
+
+Data type --> Data Structure
+
+Data Structure:-
+==================
+
+Arrangment in data in perticular format
+
+list --> mutable    []
+tuple --> immutable ()
+set --> mutable  set()
+dict --> mutable {}
+str --> immutable " ",'' ,'''' ,"""
+frozenset --> immutable frozenset()
+
+Interview? IMP
+mutable:
+=========
+list
+set
+dict
+immutable:
+==========
+str
+tuple
+frozenset
+
+
+
+
+
+ 
